@@ -7,7 +7,7 @@ Although we make this publically available this is proprietary, all rights reser
 
 ## Technical Details
 
-This is an [Astro](https://astro.build/) project made with JavaScript programming languages and [Bun](https://bun.sh/) runtime. To make it available on mobile we leverage [Capacitor](https://capacitorjs.com/).
+This is an [Astro](https://astro.build/) project made with the JavaScript programming language and [Bun](https://bun.sh/) runtime. To make it available on mobile, we leverage [Capacitor](https://capacitorjs.com/).
 
 ## Contributions
 
