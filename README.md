@@ -1,9 +1,8 @@
 # Periodt Social App
 
-This is astropublic-viewable source code for the Periodt Social App.
+This is public-viewable source code for the Periodt Social App.
 
 Although we make this publically available this is proprietary, all rights reserved, copywright covered source code. Please review the LICENSE.
-
 
 ## Technical Details
 
